@@ -47,6 +47,6 @@ A successful response for the above request should return the following schema (
             "GBP": 0.033795458,
             "USD": 0.044824204
         }
-    }
+    } 
 }
 ```
