@@ -4,7 +4,8 @@
   "description": "A solution to enye first backend task.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "author": "Steph Crown [\"https://steph-portfolio.vercel.app\"]",
   "license": "ISC",
