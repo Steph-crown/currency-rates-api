@@ -1,5 +1,7 @@
 # currency-rates-api
 
+Link: https://currency-ratesapi.herokuapp.com/
+
 **currency-rates-api is a free service for current and historical foreign exchange rates
 published by the European Central Bank. Also makes use of the [Exchange Rates API](https://exchangeratesapi.io)**
 
